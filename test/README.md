@@ -4,5 +4,7 @@ here we're building a model which is
 
 WE'RE using
 > MOBILENETV2
+
 > VGG16
+
 > IMAGENET152
