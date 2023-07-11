@@ -1,1 +1,6 @@
-# Final_Year_project
+# A Printed Character Recognition System for Meetei-Mayek Script
+using Transfer Learning
+
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING NATIONAL INSTITUTE OF TECHNOLOGY, MANIPUR
+
+ALL RIGHTS RESERVED
