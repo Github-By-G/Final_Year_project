@@ -18,7 +18,7 @@ To build an OCR system the following subproblems are to be addressed: Preprocess
 
 In order to build a character recognition system, we need a segmentation system and a Convolutional Neural Network (CNN). The segmentation system takes an image consisting of Meetei-Mayek text as input and gives us the segmented images of the input images, This output images are nothing but individual character images that are in the input image. Now these individual character images are sent to the trained Convolutional Neural Network (CNN) which gives us a number (assigned to the most active neuron) which is then used to get the corresponding unicode character. All the unicode characters are printed as text in the format of lines and words that are in the input image
 
-## A brief ocr system architecture 
+### A brief ocr system architecture 
 ![Meetei-Mayek Character Recognition System architecture ](https://github.com/Mr-barnes/Final_Year_project/blob/main/meetei_mayek_Article%20images/images/1.3.png)
 
 - A article image undergoes Image Segmentation which is done in three parts: line, word and character
