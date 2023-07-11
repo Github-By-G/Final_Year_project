@@ -27,4 +27,4 @@ In order to build a character recognition system, we need a segmentation system 
 - The conversion of Predictions carryout by unicode characters (fonts are downloded from google)
 - These unicode characters process with respective CNN and Finally Converted into text.
 ### The Final Output of Meetei-Mayek Character Recognition System.
-![Meetei-Mayek Character Recognition System architecture ](https://github.com/Mr-barnes/Final_Year_project/blob/main/meetei_mayek_Article%20images/images/4.12.png)
+![Meetei-Mayek Character Recognition System architecture ](https://github.com/Mr-barnes/Final_Year_project/blob/main/meetei_mayek_Article%20images/images/4.14.png)
