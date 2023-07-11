@@ -20,3 +20,9 @@ In order to build a character recognition system, we need a segmentation system 
 
 ## A brief ocr system architecture 
 ![Meetei-Mayek Character Recognition System architecture ](https://github.com/Mr-barnes/Final_Year_project/blob/main/meetei_mayek_Article%20images/images/1.3.png)
+
+- A article image undergoes Image Segmentation which is done in three parts: line, word and character
+- Each outcome character manually segregate into respective character folders
+- The classification task has been carried out using transfer learning with pre-trained models: MobileNet-V2, VGG-16, VGG-19, ResNet152-V2 and Xception convolutional neural networks inorder to carry out predictions
+- The conversion of Predictions carryout by unicode characters (fonts are downloded from google)
+- These unicode characters process with respective CNN and Finally Converted into text.
